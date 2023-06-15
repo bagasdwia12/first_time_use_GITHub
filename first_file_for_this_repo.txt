@@ -1,0 +1,6 @@
+Hallo everyone
+this my first experience use GIT Hub
+my first impression is very confusion
+i don't know how to use this GIT
+mainly how to use the SSH
+oke, i think is enough for my first file 
