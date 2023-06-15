@@ -4,3 +4,9 @@ my first impression is very confusion
 i don't know how to use this GIT
 mainly how to use the SSH
 oke, i think is enough for my first file 
+
+oke, rightnow i will to studying how to use the commit
+it is my first use commit fitur
+and now i know what happen when i use commit
+commit can save the lasted edit file
+commit in the a game like a checkpoint
